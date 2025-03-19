@@ -205,9 +205,9 @@ function App() {
       <footer className="bg-blue-900 text-white py-6 mt-auto">
         <div className="container mx-auto text-center">
           <p>
-            &copy; 2025 All rights reserved | Vytvořeno{" "}
+            Zpátky na portfolio{" "}
             <a
-              href="https://www.vasekkolar.com"
+              href="https://www.kolarvasek.tech"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-500 hover:underline"

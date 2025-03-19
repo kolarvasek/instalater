@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="font-sans bg-gray-100 text-gray-800 pt-24">
-      {/* Header */}|
+      {/* Header */}
       <header className="fixed w-full bg-blue-900 text-white p-6 top-0 left-0 z-50">
         <div className="container mx-auto flex justify-between items-center">
           <h1 className="text-2xl font-bold">Instalatér</h1>
